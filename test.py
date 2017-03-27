@@ -1,1 +1,1 @@
-print 'test'*10
+print 'hello'*10
